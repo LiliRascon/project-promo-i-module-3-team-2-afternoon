@@ -1,3 +1,16 @@
+@import 'base/reset';
+@import 'utils/mixins';
+@import 'utils/variables';
+@import 'layouts/footer';
+@import 'layouts/form-design';
+@import 'layouts/form-fill';
+@import 'layouts/form-share';
+@import 'layouts/header';
+@import 'layouts/landing';
+@import 'layouts/preview';
+
+
+
 .App {
   text-align: center;
 }
